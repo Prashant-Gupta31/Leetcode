@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0001-two-sum) |
+| [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prashant-Gupta31/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prashant-Gupta31/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -111,6 +112,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -137,4 +139,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
