@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prashant-Gupta31/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/Prashant-Gupta31/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Prashant-Gupta31/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
