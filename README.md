@@ -110,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0509-fibonacci-number) |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -173,6 +175,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
