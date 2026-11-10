@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -207,6 +209,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prashant-Gupta31/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
