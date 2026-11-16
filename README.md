@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -63,6 +64,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prashant-Gupta31/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -154,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0198-house-robber) |
@@ -247,6 +250,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Prashant-Gupta31/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
@@ -268,6 +272,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prashant-Gupta31/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prashant-Gupta31/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
